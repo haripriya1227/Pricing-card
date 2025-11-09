@@ -15,7 +15,7 @@ A modern and responsive pricing section built using HTML, CSS, and JavaScript �
 
 
 ## 🚀 Live Demo
-👉 [View Live Project](https://haripriya1227.github.io/Pricing-card/)
+👉 [View Live Project]https://haripriya1227.github.io/Pricing-card/
 
 
 ## 💬 About
